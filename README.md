@@ -1,4 +1,4 @@
-Code and Data used for " Predictive Modeling of Body Image Dissatisfaction in People with Type 1 Diabetes "
+We have made the script and data used in " Predictive Modeling of Body Image Dissatisfaction in People with Type 1 Diabetes " publicly available.
 
 Authors: Courtney A. South, Shahryar Ebrahimi, Anne-Sophie Brazeau, & Maria Cutumisu 
 Affiliations: 1School of Human Nutrition, McGill University, Montreal, QC, Canada, 2Department of Psychology, McGill University, Montreal, QC, Canada, 3Department of Educational and Counselling Psychology, Faculty of Education, McGill University, Montreal, QC, Canada  
